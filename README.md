@@ -14,7 +14,7 @@ You should _not_ be using this for any new projects. This is a deprecated formul
 
 Add the tap to homebrew:
 
-`brew tap matt-chapman/python-2`
+`brew tap matt-chapman/python2`
 
 Install as usual:
 
@@ -30,4 +30,4 @@ To uninstall:
 
 To remove this tap:
 
-`brew untap matt-chapman/python-2`
+`brew untap matt-chapman/python2`
