@@ -2,9 +2,9 @@
 
 ## Why does this exist?
 
-The `python@2` was (rightfully) removed from `homebrew-core` in [#48460](https://github.com/Homebrew/homebrew-core/pull/48460), as Python 2.7.x is now [EOL](https://www.python.org/dev/peps/pep-0373/#id4)
+The `python@2` was removed from `homebrew-core` in [#49796](https://github.com/Homebrew/homebrew-core/pull/49796), as Python 2.7.x is now [EOL](https://www.python.org/dev/peps/pep-0373/#id4) and should no longer be in general usage.
 
-In order to maintain some legacy applications for my work, I have extracted the last iteration of the `python@2` formula to this repository. I will update it with the final 2.7.18 release once it is available.
+In order to maintain some legacy applications for my work, I have extracted the last iteration of the `python@2` formula to this repository. It has since been updated with [Python 2.7.18](https://www.python.org/downloads/release/python-2718/), the last release (ever!) for Python 2.7.
 
 You should _not_ be using this for any new projects. This is a deprecated formula, and exists here only to facilitate running and supporting software that depends on it.
 
