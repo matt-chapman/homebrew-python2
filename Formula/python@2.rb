@@ -3,7 +3,6 @@ class PythonAT2 < Formula
   homepage "https://www.python.org/"
   url "https://www.python.org/ftp/python/2.7.17/Python-2.7.18.tar.xz"
   sha256 "b62c0e7937551d0cc02b8fd5cb0f544f9405bafc9a54d3808ed4594812edef43"
-  revision 1
   head "https://github.com/python/cpython.git", :branch => "2.7"
 
   # setuptools remembers the build flags python is built with and uses them to
