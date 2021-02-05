@@ -1,5 +1,7 @@
 # Python@2 Homebrew Tap
 
+*This repo is archived and unmaintained. Use at your own risk.*
+
 ## Why does this exist?
 
 The `python@2` was removed from `homebrew-core` in [#49796](https://github.com/Homebrew/homebrew-core/pull/49796), as Python 2.7.x is now [EOL](https://www.python.org/dev/peps/pep-0373/#id4) and should no longer be in general usage.
